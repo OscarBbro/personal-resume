@@ -162,7 +162,7 @@ a {
   color: #0b5df5;
   text-decoration: none;
   background-color: transparent;
-  font-size: 20px;
+  font-size: 25px;
 }
 a:hover {
   color: #1d0680;/*824027*/
@@ -6076,7 +6076,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0b5df5 !important; 
+  background-color: #0b5df5 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
